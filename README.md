@@ -1,4 +1,3 @@
-# professor-oats.github.io
-Trying GitHub hosting
+# Information Security with HelmetJS
 
-Seeing if this can act as a hosting for the HelmetJS assignment at FCC
+This is the boilerplate for the Information Security lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/
